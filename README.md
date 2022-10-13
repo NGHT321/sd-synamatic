@@ -2,18 +2,14 @@
 ```
 Movie Review App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO](https://frontendpartapp.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://backendpartapp.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://synamatic-frontend.nght321.repl.co/) here!!
+Check out [API LIVE DEMO](https://synamatic-backend.nght321.repl.co/) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
 * Backend : Django
 ```
-## How to Install
-1. Git Clone
-```
-git clone https://github.com/Niolas12/my-sd-synamatic.git
-```
+
 2. Backend setting
 ```
 cd backend
